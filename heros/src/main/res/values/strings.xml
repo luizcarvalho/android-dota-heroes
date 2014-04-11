@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dota Heros</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cadastro_hero">Cadastro de Heróis</string>
+    <string name="hero_name">Nome do Herói</string>
+    <string name="favoriteSkill">Skill Favorita</string>
+    <string name="ultimateSkill">Ultimate</string>
+    <string name="hero_rating">Avaliação</string>
+    <string name="save_hero">Salvar Herói</string>
+
+</resources>
